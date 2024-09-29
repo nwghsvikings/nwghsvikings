@@ -1,0 +1,7 @@
+- 👋 Hi, we're @nwghsvikings
+- 👀 We're interested in Java, HTML, CSS, JS, React, and Node.js
+- 🌱 We're currently learning all of the above.
+- 💞️ We're looking to collaborate on FIRST projects.
+- 📫 How to reach us: Through the email our page, or our social media contacts(Coming soon!)
+- 😄 Pronouns: We have a lot of them
+- ⚡ Fun fact: We have an amazing coach.
